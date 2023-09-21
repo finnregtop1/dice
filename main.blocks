@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="k)ju#A^ZN18Y{LpyXAyH">cash</variable><variable id="T6O)K=pvR5`iQi@x01O~">banaan</variable><variable id="iLk)*4E-E.5;c5zN6q:O">finn</variable></variables><block type="device_build_big_image" id="K}kNHml5b9-o75?rj*SK" disabled="true" x="373" y="-6"><field name="LEDS">`
+        . . . . . . . . . . 
+        . . . . . . . . . . 
+        . . . . . . . . . . 
+        . . . . . . . . . . 
+        . . . . . . . . . .
+        `</field></block><block type="serial_on_data_received" id="ZnuZ9~skabqwduS`*nX1" x="60" y="111"><value name="delimiters"><shadow type="serial_delimiter_conv" id="#pU_k(d^F`:XJgckaRCC"><field name="del">Delimiters.Dollar</field></shadow></value><statement name="HANDLER"><block type="device_show_number" id="]0Fpym:?0PAuBY7ld!Q4"><value name="number"><shadow type="math_number" id="j=oTf+@xAK?A;_*%)Qlq"><field name="NUM">0</field></shadow></value></block></statement></block></xml>
